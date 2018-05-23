@@ -1,10 +1,10 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="cjShop-service-rest:war exploded">
-    <output-path>$PROJECT_DIR$/target/cjShop-service-rest</output-path>
+    <output-path>$PROJECT_DIR$/target/cjShop-facade-rest</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="cjShop-service-rest" />
+          <element id="module-output" name="cjShop-facade-rest" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: redis.clients:jedis:2.7.2" />
@@ -49,9 +49,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/cjShop-service-rest/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/cjShop-facade-rest/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="cjShop-service-rest/web/Web" />
+      <element id="javaee-facet-resources" facet="cjShop-facade-rest/web/Web" />
     </root>
   </artifact>
 </component>

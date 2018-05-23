@@ -1,4 +1,4 @@
-package com.cj.core.service;
+package com.cj.core.facade.service;
 
 import com.cj.core.pojo.TbItem;
 import com.cj.core.pojo.TbItemDesc;
@@ -9,7 +9,7 @@ import com.cj.core.pojo.TbItemParamItem;
  * @description 商品service
  * @date 2018/5/16
  */
-public interface ItemService {
+public interface ItemFacade {
 
     /**
      * 根据商品id获取商品的基本数据(redis)
