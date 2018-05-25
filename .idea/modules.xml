@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cjShop-facade-rest.iml" filepath="$PROJECT_DIR$/cjShop-facade-rest.iml" />
+      <module fileurl="file://F:\sources\cjshop&amp;ttshop\cjshop-dubbo\cjShop-facade-search\cjShop-facade-rest.iml" filepath="F:\sources\cjshop&amp;ttshop\cjshop-dubbo\cjShop-facade-search\cjShop-facade-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjShop-facade-search.iml" filepath="$PROJECT_DIR$/cjShop-facade-search.iml" />
     </modules>
   </component>
 </project>
